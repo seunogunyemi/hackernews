@@ -1,0 +1,82 @@
+a		{
+					color: black;
+}
+
+.nav-item			{
+						margin-left: 20px;
+}
+.project			{
+						text-align: center;
+}
+.searchsection		 {
+							float: right;
+}
+.topics 			{
+						/*border: 1px solid red;*/
+						text-align: center;
+}
+.page-topics		{
+						list-style-type: none;
+						display: inline;
+						margin-right: 50px;
+						cursor: pointer;
+}
+a:hover			{
+								text-decoration: none;
+								color: black;
+
+}
+
+hr 						{
+							background-color: orange;
+}
+
+.mainview				{
+								width: 680px;
+								height: 285px;
+								margin-top: 5px;
+								border-radius: 5px;
+}
+.section					{
+							border: 1px solid grey;
+							border-radius: 4px;
+							margin: 5px;
+							box-shadow: 0px 2px 1px 0px;
+}
+
+.fa-thumbs-up, .fa-comment, .fa-share, 					{
+																margin-right: 30px;
+}
+
+
+i 						{
+								margin-left: 5px;
+								font-size: 8px;
+}
+
+b 						{
+								font-size: 8px;
+}
+.grey					{
+								color: grey;
+}
+
+.footer					{
+								background-color: #ff6600;
+								text-align: center;
+}
+#footer					{
+								list-style-type: none;
+								color: white;
+}
+input[type='email']		{
+								width: 250px;
+								border-radius: 5px;
+								box-shadow: none;
+								border: 1px solid #ff6600;
+}
+
+
+
+
+
